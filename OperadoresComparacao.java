@@ -1,8 +1,10 @@
-public class Operadores {
+public class OperadoresComparacao {
     public static void main(String[] args){
 
 
         //Estudo de Operadores em Java:
+
+       /* Operadores de comparação*/
 
         // ( == ) Igual: Este operador verifica se os dados entre variáveis são iguais
         int value1 = 12345678;
