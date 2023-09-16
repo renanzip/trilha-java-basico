@@ -1,5 +1,5 @@
 public class OperadoresComparacao {
-    public static void main(String[] args){
+    public static void main (String[] args){
 
 
         //Estudo de Operadores em Java:
