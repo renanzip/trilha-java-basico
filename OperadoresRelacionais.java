@@ -50,5 +50,28 @@ public class OperadoresRelacionais {
         System.out.println(nome1.equals(nome2)); //??
         System.out.println(nome2.equals(nome3)); //??
         System.out.println(nome3.equals(nome4)); //??
-    }
+
+
+        // ComparacaoAvancada.java
+
+/*
+            int number1 = 130;
+            int number2 = 130;
+            System.out.println(numero1 == numero2); //true
+
+            Integer number1 = 130;
+            Integer number2 = 130;
+
+            System.out.println(number1 == number2); //false
+
+            // A razão pela qual o resultado é false, é devido o Java tratar os valores
+            // Como objetos a partir de agora.
+            // Qual a solução ?
+            // Quando queremos comparar objetos, usamos o método equals
+
+            System.out.println(number1.equals(number2));
+
+            */
+
+        }
 }
