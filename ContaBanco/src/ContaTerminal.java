@@ -1,3 +1,15 @@
+/**
+* <h1>Conta Terminal</h1>
+* Desafio: Criação de um programa para abertura de Conta Bancária executável diretamente via terminal.
+* <p>
+* <b>Nota:</b> O desafio faz parte da etapa de.
+* aprendizado e deve ser entregue para avaliação da DIO
+*
+* @author  Renan Lima
+* @version 1.0
+* @since   17/0//2023
+*/
+
 import java.util.Locale;
 import java.util.Scanner;
 
