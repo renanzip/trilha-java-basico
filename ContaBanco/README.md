@@ -1,18 +1,13 @@
-## Getting Started
+## Desafio Abertura de Conta Bancária
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplicação desenvolvida em Java e tem como objetivo explorar os conhecimentos adiquiridos durante o Bootcamp Santander pela DIO.
 
-## Folder Structure
+## Estrutura das pastas
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: Contém a classe ContaTerminal.java
+- `bin`: Contém a ContaTerminal compilado para execução em terminal
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> O desafio faz parte da etapa de aprendizado e tem como objetivo a entrega para avaliação da DIO
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
