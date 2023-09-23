@@ -1,4 +1,4 @@
-# Introdução e Estruturas Condicionais com Java
+# Introdução a Estruturas Condicionais com Java
 
 ## Estrutura das pastas
 
