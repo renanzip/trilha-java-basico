@@ -6,5 +6,5 @@
 - `bin`: Pasta com as classes compiladas
 
 > 
-     * Tratamento de Exceções utilizando o try catch
+     * Criação da própria exceção
  
