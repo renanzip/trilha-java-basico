@@ -7,7 +7,7 @@
  *
  * @author  Gleyson Sampaio
  * @version 1.0
- * @since   01/01/2022
+ * @since   17/09/2023
  */
 public class Calculadora {
 
