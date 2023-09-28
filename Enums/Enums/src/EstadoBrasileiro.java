@@ -1,0 +1,4 @@
+
+public enums EstadoBrasileiro {
+
+}
