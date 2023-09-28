@@ -6,10 +6,10 @@ import java.util.List;
 public class GenericExampleList {
     public static void main(String[] args) {
         
-        // // Exemplo sem Generics
-        // List listaSemGenerics = new ArrayList();
-        // listaSemGenerics.add("teste");
-        // listaSemGenerics.add(0, "teste2");
+        // Exemplo sem Generics
+        List listaSemGenerics = new ArrayList();
+        listaSemGenerics.add("teste");
+        listaSemGenerics.add(0, "teste2");
 
         
         // Exemplo com Generics
@@ -20,7 +20,7 @@ public class GenericExampleList {
         listaComGenerics.add("Elemento 4");
         listaComGenerics.add("Elemento 0");
 
-        // System.out.println(listaComGenerics.get(0));
+        System.out.println(listaComGenerics.get(0));
 
         // Ordenação Alfabética
         Collections.sort(listaComGenerics);
