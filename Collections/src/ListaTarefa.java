@@ -49,7 +49,7 @@ public class ListaTarefa {
 
         
 
-        listaTarefa.removerTarefa("Tarefa 2");
+        // listaTarefa.removerTarefa("Tarefa 2");
 
         System.out.println("O número total de elementos na lista é: " + listaTarefa.obterNumeroTotalTarefas());
 
