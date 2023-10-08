@@ -12,7 +12,7 @@ Repodutor Musicial: tocar, pausar, selecionarMusica
 Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-**
+
 **##Diagrama de Classe
 
 <img src="./src/images/UML_POO_DESAFIO.png" alt="Diagrama de classe UML do Desafio POO DIO"><br>
