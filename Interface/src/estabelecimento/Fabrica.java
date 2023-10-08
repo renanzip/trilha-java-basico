@@ -2,7 +2,6 @@ package estabelecimento;
 
 import equipamentos.Impressora.Deskjet;
 import equipamentos.Impressora.Impressora;
-import equipamentos.Impressora.Laserjet;
 import equipamentos.copiadora.Copiadora;
 import equipamentos.digitalizadora.Digitalizadora;
 import equipamentos.digitalizadora.Scanner;
